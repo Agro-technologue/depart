@@ -1,0 +1,22 @@
+PREUVE 1 : Budget de 50.000 FCFA
+
+Nom : Awa
+Budget : 50000 FCFA
+Transport : 12500 FCFA
+Alimentation : 18300 FCFA
+Loisirs : 7500 FCFA
+Total des depenses : 38300 FCFA
+Budget restant : 11700 FCFA
+Budget respecté : true
+
+
+PREUVE 2 : Budget de 30.000 FCFA
+
+Nom : Awa
+Budget : 30000 FCFA
+Transport : 12500 FCFA
+Alimentation : 18300 FCFA
+Loisirs : 7500 FCFA
+Total des depenses : 38300 FCFA
+Budget restant : -8300 FCFA
+Budget respecté : false
